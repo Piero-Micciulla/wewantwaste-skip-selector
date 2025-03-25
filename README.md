@@ -167,6 +167,6 @@ Finally, through the usage of **search parameters**, you can test different post
 - `/?postcode=CB1%200LD&area=Cambridge`
 - `/?postcode=EH1%201YZ&area=Edinburgh`
 
-The redesign was focused on creating a visually appealing, functional, and easy-to-use app while maintaining a clear connection to the eco-conscious theme.
+The redesign was focused on creating a visually appealing, functional, and easy-to-use app while maintaining a clear connection to the eco-conscious theme. The project has been deployed using **Netlify**, ensuring a seamless and fast deployment process, with easy-to-use URLs for testing and accessing different areas.
 
 ---
