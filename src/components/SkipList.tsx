@@ -1,7 +1,6 @@
 import React from "react";
 import SkipCard from "./SkipCard";
 import { Skip } from "../services/api";
-import { TruckIcon } from "../assets/icons";
 
 interface SkipListProps {
   skips: Skip[];
