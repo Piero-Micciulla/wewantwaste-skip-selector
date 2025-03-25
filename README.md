@@ -162,10 +162,10 @@ To further improve the user experience, I revamped the way the **“Heavy Waste 
 
 For now, the “Back” and “Continue” buttons are logged for action, with their functions being dependent on the page flow. As the app progresses, these buttons will lead to the appropriate steps in the workflow.
 
-Finally, through the usage of **search parameters**, you can test different postcodes and areas easily, making it possible to test various locations directly via URLs like:
+Finally, through the usage of **search parameters**, you can test different postcodes and areas easily, making it possible to test various locations directly via URLs, adding:
 
-- `http://localhost:5173/?postcode=CB1%200LD&area=Cambridge`
-- `http://localhost:5173/?postcode=EH1%201YZ&area=Edinburgh`
+- `/?postcode=CB1%200LD&area=Cambridge`
+- `/?postcode=EH1%201YZ&area=Edinburgh`
 
 The redesign was focused on creating a visually appealing, functional, and easy-to-use app while maintaining a clear connection to the eco-conscious theme.
 
